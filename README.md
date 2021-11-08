@@ -2,6 +2,8 @@
 Learnt sorting algorithms like bubble sort, selection sort, insertion sort, quick sort. But often we fail to understand the core idea of a particular algorithm maybe because we are unable to visualize how they work. So the most important thing to understand about these algorithms is visualization.
 That’s why I implemented this project to let everyone understand how these algorithms work and through this project one can get a deep understanding of such sorting algorithms.
 
+## Deployed at : https://protyushn1999.github.io/Sorting-Visualizer/
+
 ## High-Level Approach
 
   * Creating the website's User Interface (UI) using HTML, CSS and enhancing it further using Bootstrap; without actually implementing any of the app's core features.
@@ -13,6 +15,7 @@ That’s why I implemented this project to let everyone understand how these alg
 ### End result of the project
 
 ![image](https://user-images.githubusercontent.com/46063095/140690525-30320737-672c-4016-a894-0dc06f916932.png)
+
 ![image](https://user-images.githubusercontent.com/46063095/140690706-c4d2d766-a9a7-47d0-813b-282fee65631e.png)
 
   
