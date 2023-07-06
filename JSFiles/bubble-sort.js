@@ -19,7 +19,7 @@ async function bubble() {
     }
     ele[0].style.background = '#064e63b0';
 }
-
+document.addEventListener('DOMContentLoaded', function() {
 const bubSortbtn = document.querySelector(".bubbleSort");
 bubSortbtn.addEventListener('click', async function(){
     disableSortingBtn();
@@ -29,4 +29,5 @@ bubSortbtn.addEventListener('click', async function(){
     enableSortingBtn();
     enableSizeSlider();
     enableNewArrayBtn();
+});
 });
